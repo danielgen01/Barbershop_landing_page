@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Barberfont";
+    src: url("../assets/font/vanchrome\clear.ttf");
+}
+
+body{
+    font-family: "Barberfont" !important;
+    
+    
+}
