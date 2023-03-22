@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Barberfont";
-    src: url("../assets/font/vanchrome\clear.ttf");
+    src: url("../assets/font/Karantina-Light.ttf");
 }
 
 body{
     font-family: "Barberfont" !important;
-    
+    letter-spacing: 0.1rem;
     
 }
