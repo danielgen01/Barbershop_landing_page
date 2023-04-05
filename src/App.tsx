@@ -9,7 +9,7 @@ import TextBanner from "./components/TextBanner"
 function App() {
   return (
     <>
-      <div className="w-screen h-auto min-h-screen absolute top-0 left-0 -z-10 bg-[url('../assets/images/bg-image.png')] bg-center">
+      <div className="w-screen h-auto min-h-screen absolute top-0 left-0 -z-10 bg-[url('../assets/images/bg-image.png')] bg-center lg:bg-cover">
       <Header />
       <Navbar />
       <TextBanner />
